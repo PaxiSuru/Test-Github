@@ -1,0 +1,11 @@
+* {
+    padding: 25px;
+    margin: 25px;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(138, 159, 212);
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+
